@@ -9,8 +9,8 @@ module.exports = {
             published: new Date(),
             price: 15000,
             stock: 10,
-            user: 6,
-            category: 3,
+            user: 1,
+            category: 1,
             createdAt: new Date(),
             updatedAt: new Date(),
         }], {});
